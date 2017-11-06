@@ -46,6 +46,11 @@ li a:hover {
   border: solid 2px #aaa;
 }
 
+#submit-button {
+  background-color: #4aaaa5;
+  color: #fff;
+}
+
 p {
   margin: 20px;
   font-weight: 700;
@@ -90,4 +95,11 @@ footer {
   background-color: #4aaaa5;
   color: #fff;
   padding: 15px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  margin: -10px 0;
+}
+
+.navbar-brand:hover {
+  color: #fff;
 }
