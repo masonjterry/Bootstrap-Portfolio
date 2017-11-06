@@ -37,7 +37,7 @@ a {
   color: #aaa;
 }
 
-a:hover {
+li a:hover {
   background-color: #4aaaa5;
   color: #fff;
 }
