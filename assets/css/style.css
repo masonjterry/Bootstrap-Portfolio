@@ -33,11 +33,21 @@ h3 {
   text-align: center;
 }
 
-a {
+h3:hover {
+  text-decoration: none;
+  background-color: #fff;
+  color: #4aaaa5;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.nav-btn {
   color: #aaa;
 }
 
-li a:hover {
+li .nav-btn:hover {
   background-color: #4aaaa5;
   color: #fff;
 }
@@ -104,5 +114,6 @@ footer {
 }
 
 .navbar-brand:hover {
-  color: #fff;
+  background-color: #fff;
+  color: #4aaaa5;
 }
