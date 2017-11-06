@@ -83,8 +83,11 @@ footer {
 
 .imgSize {
   max-width: 70px;
-  padding: 10px;
-  margin-left: 25px;
+  padding: 5px;
+}
+
+#icon-row-index, #icon-row-port, #icon-row-cont {
+  justify-content: space-around;
 }
 
 .navbar-custom {
